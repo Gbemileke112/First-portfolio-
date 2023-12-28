@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+.myimg{
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+}
+h1{
+    color: red;
+}
+.container{
+
+    color: white;
+}
+.email{
+    color: red;
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: wheat;
+    padding: 13px 42px;
+}
